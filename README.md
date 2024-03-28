@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @birukGetache
+- 👋 Hi, I’m Biruk getachew
 - 👀 I’m interested in IOT, Web development, blockchain
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on website development
